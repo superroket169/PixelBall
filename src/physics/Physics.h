@@ -3,6 +3,7 @@
 #include <vector>
 #include <memory>
 #include <SFML/System.hpp>
+#include <SFML/Graphics.hpp>
 
 namespace entity
 {

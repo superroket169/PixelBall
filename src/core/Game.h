@@ -4,6 +4,7 @@
 #include <memory>
 #include <atomic>
 #include <functional>
+#include <thread>
 #include <SFML/System.hpp>
 
 namespace entity

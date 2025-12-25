@@ -13,7 +13,9 @@ struct Player
     sf::Vector2f accel {0.f, 0.f};
     float radius = 16.f;
     float maxSpeed = 300.f; // units per second
-    bool wantsKick = false; // space pressed
+    // linear speed decay (units per second). velocity magnitude will be reduced by
+    // this amount each second until zero. Adjust to tune feel.
+    float linearFriction = 300.f;
 };
 
 } // namespace entity

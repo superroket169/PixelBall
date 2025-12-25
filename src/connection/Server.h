@@ -41,6 +41,10 @@ private:
     unsigned short m_port;
     sf::TcpListener m_listener;
     std::thread m_acceptThread;
+    std::thread m_broadcastThread;
+    // announcer (UDP broadcast)
+    std::thread m_announceThread;
+    sf::UdpSocket m_udpSocket;
     std::vector<std::shared_ptr<sf::TcpSocket>> m_clients;
     std::mutex m_clientsMutex;
 

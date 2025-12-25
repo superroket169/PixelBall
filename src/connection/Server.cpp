@@ -31,6 +31,35 @@ void Server::start()
 
     m_running = true;
     m_acceptThread = std::thread(&Server::acceptLoop, this);
+
+    // start periodic broadcast thread (20 Hz)
+    m_broadcastThread = std::thread([this]() {
+        using namespace std::chrono;
+        const milliseconds period(50); // 20 Hz
+        while (m_running)
+        {
+            auto t0 = steady_clock::now();
+            this->broadcastStates();
+            auto elapsed = steady_clock::now() - t0;
+            if (elapsed < period) std::this_thread::sleep_for(period - elapsed);
+        }
+    });
+
+    // start announcer thread
+    m_udpSocket.setBlocking(false);
+    m_announceThread = std::thread([this]() {
+        sf::IpAddress broadcast = sf::IpAddress::Broadcast;
+        unsigned short port = 50001;
+        std::string msg = std::string("PixelBall:") + std::to_string(m_port);
+        sf::Packet p;
+        while (m_running)
+        {
+            p.clear();
+            p << msg;
+            m_udpSocket.send(p, broadcast, port);
+            std::this_thread::sleep_for(std::chrono::seconds(1));
+        }
+    });
 }
 
 void Server::stop()
@@ -48,6 +77,16 @@ void Server::stop()
     if (m_acceptThread.joinable())
     {
         m_acceptThread.join();
+    }
+
+    if (m_broadcastThread.joinable())
+    {
+        m_broadcastThread.join();
+    }
+
+    if (m_announceThread.joinable())
+    {
+        m_announceThread.join();
     }
 
     std::lock_guard<std::mutex> lk(m_clientsMutex);
