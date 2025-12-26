@@ -1,0 +1,224 @@
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\wineboot.exe" at 0000000140000000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 00006FFFFF410000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 00006FFFFFA50000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00006FFFFEF40000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00006FFFFEA70000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 00006FFFFEEA0000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 00006FFFFF2D0000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ws2_32.dll" at 00006FFFFE9A0000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winemenubuilder.exe" at 0000000140000000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 00006FFFFF410000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 00006FFFFFA50000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00006FFFFEF40000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00006FFFFEA70000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 00006FFFFEEA0000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 00006FFFFF2D0000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\zlib1.dll" at 00006FFFFDAF0000: builtin
+003c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\services.exe" at 0000000140000000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\win32u.dll" at 00006FFFFDA90000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 00006FFFFDB30000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 00006FFFFE100000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 00006FFFFD7D0000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\combase.dll" at 00006FFFFE3F0000: builtin
+003c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 00006FFFFF410000: builtin
+003c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 00006FFFFFA50000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\coml2.dll" at 00006FFFFD760000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 00006FFFFE5B0000: builtin
+003c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00006FFFFEF40000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shcore.dll" at 00006FFFFC7E0000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shlwapi.dll" at 00006FFFFC850000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shell32.dll" at 00006FFFFC980000: builtin
+003c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00006FFFFEA70000: builtin
+003c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 00006FFFFEEA0000: builtin
+003c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 00006FFFFF2D0000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\oleaut32.dll" at 00006FFFFBCD0000: builtin
+003c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 00006FFFFD7D0000: builtin
+003c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 00006FFFFBA10000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\propsys.dll" at 00006FFFFBC30000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\windowscodecs.dll" at 00006FFFFC050000: builtin
+003c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\userenv.dll" at 00006FFFFB9D0000: builtin
+0048:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winedevice.exe" at 0000000140000000: builtin
+0048:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 00006FFFFF410000: builtin
+0048:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 00006FFFFFA50000: builtin
+0048:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00006FFFFEF40000: builtin
+0048:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00006FFFFEA70000: builtin
+0048:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 00006FFFFEEA0000: builtin
+0048:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 00006FFFFF2D0000: builtin
+0048:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ntoskrnl.exe" at 00006FFFFB880000: builtin
+0048:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 00006FFFFD7D0000: builtin
+0054:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\mountmgr.sys" at 00006FFFFB810000: builtin
+0054:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 00006FFFFBA10000: builtin
+006c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\plugplay.exe" at 0000000140000000: builtin
+006c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 00006FFFFF410000: builtin
+006c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 00006FFFFFA50000: builtin
+006c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00006FFFFEF40000: builtin
+006c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00006FFFFEA70000: builtin
+006c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 00006FFFFEEA0000: builtin
+006c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 00006FFFFF2D0000: builtin
+006c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 00006FFFFD7D0000: builtin
+006c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\zlib1.dll" at 00006FFFFDAF0000: builtin
+006c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\win32u.dll" at 00006FFFFDA90000: builtin
+006c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 00006FFFFE100000: builtin
+006c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 00006FFFFDB30000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 00006FFFFB770000: builtin
+0074:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\explorer.exe" at 0000000140000000: builtin
+0060:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\zlib1.dll" at 00006FFFFDAF0000: builtin
+0074:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 00006FFFFF410000: builtin
+0074:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 00006FFFFFA50000: builtin
+0060:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\win32u.dll" at 00006FFFFDA90000: builtin
+0060:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 00006FFFFE100000: builtin
+0060:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 00006FFFFDB30000: builtin
+0074:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00006FFFFEF40000: builtin
+0074:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00006FFFFEA70000: builtin
+0074:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 00006FFFFEEA0000: builtin
+0074:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 00006FFFFF2D0000: builtin
+0074:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\zlib1.dll" at 00006FFFFDAF0000: builtin
+0074:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\win32u.dll" at 00006FFFFDA90000: builtin
+0074:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 00006FFFFDB30000: builtin
+0074:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 00006FFFFE100000: builtin
+0074:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 00006FFFFD7D0000: builtin
+006c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 00006FFFFB770000: builtin
+0060:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 00006FFFFB770000: builtin
+008c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\svchost.exe" at 0000000140000000: builtin
+008c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 00006FFFFF410000: builtin
+008c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 00006FFFFFA50000: builtin
+008c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00006FFFFEF40000: builtin
+008c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00006FFFFEA70000: builtin
+008c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 00006FFFFEEA0000: builtin
+008c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 00006FFFFF2D0000: builtin
+0074:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 00006FFFFB770000: builtin
+008c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\wevtsvc.dll" at 00006FFFFB740000: builtin
+008c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 00006FFFFD7D0000: builtin
+0074:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winex11.drv" at 00006FFFFB710000: builtin
+0054:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\nsiproxy.sys" at 00006FFFFB6D0000: builtin
+0054:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\dnsapi.dll" at 00006FFFFB580000: builtin
+0054:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\nsi.dll" at 00006FFFFB540000: builtin
+0054:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ws2_32.dll" at 00006FFFFE9A0000: builtin
+0054:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\iphlpapi.dll" at 00006FFFFB5E0000: builtin
+0054:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\ndis.sys" at 00006FFFFB690000: builtin
+00a8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winedevice.exe" at 0000000140000000: builtin
+00a8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 00006FFFFF410000: builtin
+00a8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 00006FFFFFA50000: builtin
+00a8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00006FFFFEF40000: builtin
+00a8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00006FFFFEA70000: builtin
+00a8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 00006FFFFEEA0000: builtin
+00a8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 00006FFFFF2D0000: builtin
+00a8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ntoskrnl.exe" at 00006FFFFB880000: builtin
+00a8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 00006FFFFD7D0000: builtin
+00b0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\hidparse.sys" at 00006FFFFB490000: builtin
+00b0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\winebus.sys" at 00006FFFFB4E0000: builtin
+00b0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 00006FFFFBA10000: builtin
+00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\zlib1.dll" at 00006FFFFDAF0000: builtin
+00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\win32u.dll" at 00006FFFFDA90000: builtin
+00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 00006FFFFE100000: builtin
+00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 00006FFFFDB30000: builtin
+00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\hidclass.sys" at 00006FFFFB400000: builtin
+00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\winehid.sys" at 00006FFFFB460000: builtin
+00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 00006FFFFB770000: builtin
+0074:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\uxtheme.dll" at 00006FFFFB320000: builtin
+00b0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\wineusb.sys" at 00006FFFFB2E0000: builtin
+0074:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shcore.dll" at 00006FFFFC7E0000: builtin
+0074:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shlwapi.dll" at 00006FFFFC850000: builtin
+0074:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shell32.dll" at 00006FFFFC980000: builtin
+00b0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\winebth.sys" at 00006FFFFB290000: builtin
+0074:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\combase.dll" at 00006FFFFE3F0000: builtin
+0074:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\coml2.dll" at 00006FFFFD760000: builtin
+0074:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 00006FFFFE5B0000: builtin
+0074:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\oleaut32.dll" at 00006FFFFBCD0000: builtin
+0074:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\actxprxy.dll" at 00006FFFFB1B0000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\zlib1.dll" at 00006FFFFDAF0000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\win32u.dll" at 00006FFFFDA90000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 00006FFFFDB30000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 00006FFFFE100000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shcore.dll" at 00006FFFFC7E0000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shlwapi.dll" at 00006FFFFC850000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shell32.dll" at 00006FFFFC980000: builtin
+00f8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcss.exe" at 0000000140000000: builtin
+00f8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 00006FFFFF410000: builtin
+00f8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 00006FFFFFA50000: builtin
+00f8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00006FFFFEF40000: builtin
+00f8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00006FFFFEA70000: builtin
+00f8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 00006FFFFEEA0000: builtin
+00f8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 00006FFFFF2D0000: builtin
+00f8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 00006FFFFD7D0000: builtin
+0034:trace:loaddll:build_module Loaded L"c:\\windows\\system32\\winex11.drv" at 00006FFFFB710000: builtin
+0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\uxtheme.dll" at 00006FFFFB320000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 00006FFFFB770000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 00006FFFFD7D0000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\combase.dll" at 00006FFFFE3F0000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\coml2.dll" at 00006FFFFD760000: builtin
+002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 00006FFFFE5B0000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\syswow64\\start.exe" at 00400000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\syswow64\\kernelbase.dll" at 7B610000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\syswow64\\kernel32.dll" at 7BB70000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\syswow64\\msvcrt.dll" at 7A570000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\syswow64\\ucrtbase.dll" at 7A1B0000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\syswow64\\sechost.dll" at 7A4F0000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\syswow64\\advapi32.dll" at 7A840000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\syswow64\\zlib1.dll" at 79A30000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\syswow64\\win32u.dll" at 799E0000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\syswow64\\user32.dll" at 79A70000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\syswow64\\gdi32.dll" at 79F50000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\syswow64\\shcore.dll" at 79880000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\syswow64\\shlwapi.dll" at 798E0000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\syswow64\\shell32.dll" at 7A940000: builtin
+0120:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\conhost.exe" at 0000000140000000: builtin
+0120:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 00006FFFFF410000: builtin
+0120:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 00006FFFFFA50000: builtin
+0120:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00006FFFFEF40000: builtin
+0120:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00006FFFFEA70000: builtin
+0120:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 00006FFFFEEA0000: builtin
+0120:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 00006FFFFF2D0000: builtin
+0120:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\zlib1.dll" at 00006FFFFDAF0000: builtin
+0120:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\win32u.dll" at 00006FFFFDA90000: builtin
+0120:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 00006FFFFDB30000: builtin
+0120:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 00006FFFFE100000: builtin
+0024:trace:loaddll:build_module Loaded L"C:\\windows\\syswow64\\imm32.dll" at 79800000: builtin
+0120:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 00006FFFFB770000: builtin
+0128:trace:loaddll:build_module Loaded L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\pixelball_menu.exe" at 0000000140000000: native
+0128:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 00006FFFFF410000: builtin
+0128:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 00006FFFFFA50000: builtin
+0128:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00006FFFFEF40000: builtin
+0128:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00006FFFFEA70000: builtin
+0128:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 00006FFFFEEA0000: builtin
+0128:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 00006FFFFF2D0000: builtin
+0128:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\zlib1.dll" at 00006FFFFDAF0000: builtin
+0128:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\win32u.dll" at 00006FFFFDA90000: builtin
+0128:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 00006FFFFE100000: builtin
+0128:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 00006FFFFDB30000: builtin
+0128:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msacm32.dll" at 00006FFFFC3B0000: builtin
+0128:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 00006FFFFD7D0000: builtin
+0128:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\combase.dll" at 00006FFFFE3F0000: builtin
+0128:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\coml2.dll" at 00006FFFFD760000: builtin
+0128:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 00006FFFFE5B0000: builtin
+0128:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\WINMM.dll" at 00006FFFFC440000: builtin
+0128:err:module:import_dll Library libgcc_s_seh-1.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\sfml-system-2.dll") not found
+0128:err:module:import_dll Library libstdc++-6.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\sfml-system-2.dll") not found
+0128:err:module:import_dll Library sfml-system-2.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\sfml-graphics-2.dll") not found
+0128:err:module:import_dll Library libgcc_s_seh-1.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\sfml-system-2.dll") not found
+0128:err:module:import_dll Library libstdc++-6.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\sfml-system-2.dll") not found
+0128:err:module:import_dll Library sfml-system-2.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\sfml-window-2.dll") not found
+0128:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\OPENGL32.dll" at 00000000791A0000: builtin
+0128:err:module:import_dll Library libgcc_s_seh-1.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\sfml-window-2.dll") not found
+0128:err:module:import_dll Library libstdc++-6.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\sfml-window-2.dll") not found
+0128:err:module:import_dll Library sfml-window-2.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\sfml-graphics-2.dll") not found
+0128:err:module:import_dll Library libgcc_s_seh-1.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\sfml-graphics-2.dll") not found
+0128:err:module:import_dll Library libstdc++-6.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\sfml-graphics-2.dll") not found
+0128:err:module:import_dll Library sfml-graphics-2.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\pixelball_menu.exe") not found
+0128:err:module:import_dll Library libgcc_s_seh-1.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\sfml-system-2.dll") not found
+0128:err:module:import_dll Library libstdc++-6.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\sfml-system-2.dll") not found
+0128:err:module:import_dll Library sfml-system-2.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\sfml-network-2.dll") not found
+0128:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\WS2_32.dll" at 00006FFFFE9A0000: builtin
+0128:err:module:import_dll Library libgcc_s_seh-1.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\sfml-network-2.dll") not found
+0128:err:module:import_dll Library libstdc++-6.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\sfml-network-2.dll") not found
+0128:err:module:import_dll Library sfml-network-2.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\pixelball_menu.exe") not found
+0128:err:module:import_dll Library libgcc_s_seh-1.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\sfml-system-2.dll") not found
+0128:err:module:import_dll Library libstdc++-6.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\sfml-system-2.dll") not found
+0128:err:module:import_dll Library sfml-system-2.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\pixelball_menu.exe") not found
+0128:err:module:import_dll Library libgcc_s_seh-1.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\sfml-system-2.dll") not found
+0128:err:module:import_dll Library libstdc++-6.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\sfml-system-2.dll") not found
+0128:err:module:import_dll Library sfml-system-2.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\sfml-window-2.dll") not found
+0128:err:module:import_dll Library libgcc_s_seh-1.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\sfml-window-2.dll") not found
+0128:err:module:import_dll Library libstdc++-6.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\sfml-window-2.dll") not found
+0128:err:module:import_dll Library sfml-window-2.dll (which is needed by L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\pixelball_menu.exe") not found
+0128:err:module:loader_init Importing dlls for L"Z:\\home\\isa\\Documents\\Codes\\PixelBall\\build\\pixelball_menu.exe" failed, status c0000135

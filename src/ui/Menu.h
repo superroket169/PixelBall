@@ -24,6 +24,9 @@ private:
     sf::Font m_font;
     std::string m_inputText;
     std::vector<std::string> m_serverList;
+    size_t m_selectedServer = (size_t)-1;
+    bool m_inputFocused = false;
+    bool m_showCaret = true;
 };
 
 } // namespace ui

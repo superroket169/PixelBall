@@ -17,7 +17,7 @@ int main()
     using namespace render;
     using namespace input;
 
-    Menu menu(800, 240);
+    Menu menu(800, 600);
     Resources res;
 
     auto onHost = [&]()

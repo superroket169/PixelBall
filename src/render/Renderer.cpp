@@ -93,7 +93,7 @@ void Renderer::draw(const std::vector<std::shared_ptr<entity::Player>> &players,
     sf::Text t;
     t.setFont(m_font);
     t.setCharacterSize(24);
-    t.setFillColor(sf::Color::White);
+    t.setFillColor(sf::Color::Red);
     t.setString(std::to_string(score0) + " - " + std::to_string(score1));
     t.setPosition(10.f, 10.f);
     m_window->draw(t);
