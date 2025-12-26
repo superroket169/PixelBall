@@ -14,7 +14,7 @@ Renderer::Renderer(unsigned int width, unsigned int height, resource::Resources 
     m_window->setFramerateLimit(60);
 
     // preferred absolute assets directory (user-provided)
-    const std::string absAssets = "/home/isa/Documents/Codes/PixelBall/assets/";
+    const std::string absAssets = "../assets/";
 
     // load textures (try absolute first, then relative)
     std::string fieldPath = absAssets + "field.jpeg";
